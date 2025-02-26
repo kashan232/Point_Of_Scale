@@ -30,6 +30,7 @@ use Illuminate\Support\Facades\Route;
 // pos start
 // Old Pos setup
 // Software deployed
+// Checking
 Route::get('/', function () {
     return view('welcome');
 });
